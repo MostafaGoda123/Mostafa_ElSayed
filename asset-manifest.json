@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Mostafa_ElSayed/static/css/main.b3e66cee.css",
+    "main.js": "/Mostafa_ElSayed/static/js/main.e0beef1d.js",
+    "static/media/Engineering Faculty.png": "/Mostafa_ElSayed/static/media/Engineering Faculty.d14230340e6022940e42.png",
+    "static/media/logo.png": "/Mostafa_ElSayed/static/media/logo.5ecdca811feb4ed8a65f.png",
+    "static/media/Mostafa.png": "/Mostafa_ElSayed/static/media/Mostafa.cc740edee2f3d3b7c5e6.png",
+    "static/media/kindpng_2158189.png": "/Mostafa_ElSayed/static/media/kindpng_2158189.84e4b1cbbc313949056f.png",
+    "static/media/project-cover10.png": "/Mostafa_ElSayed/static/media/project-cover10.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Logo0.png": "/Mostafa_ElSayed/static/media/Logo0.ebd209f7d23c6e767c81.png",
+    "index.html": "/Mostafa_ElSayed/index.html",
+    "main.b3e66cee.css.map": "/Mostafa_ElSayed/static/css/main.b3e66cee.css.map",
+    "main.e0beef1d.js.map": "/Mostafa_ElSayed/static/js/main.e0beef1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3e66cee.css",
+    "static/js/main.e0beef1d.js"
+  ]
+}
